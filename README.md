@@ -7,7 +7,7 @@ This project demonstrates key **real-time operating system concepts** including 
 ---
 
 # Demo
-
+<img src="IMG_3724.jpeg" alt="ESP32 Demo Setup" width="400">
 
 
 ---
